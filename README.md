@@ -12,28 +12,27 @@
 1. Убедитесь, что на компьютере установлена IntelliJ IDEA Community Edition 2024.2.2 или другая среда разработки с поддержкой Java
 
 2. Скачайте файлы приложения:
+    Main.java;
 
-Main.java;
+    LoginUI.java;
 
-LoginUI.java;
+    RegisterUI.java; 
 
-RegisterUI.java; 
+    MainUI.java;
 
-MainUI.java;
+    Database.java;
 
-Database.java;
+    ExercisesDialog.java; 
 
-ExercisesDialog.java; 
+    Exercise.java; 
 
-Exercise.java; 
+    Set.java; 
 
-Set.java; 
+    Record.java; 
 
-Record.java; 
+    Workout.java.
 
-Workout.java.
-
-3. Скачайте драйвер базы данных:
+4. Скачайте драйвер базы данных:
 
 sqlite-jdbc.jar (последняя версия)
 
