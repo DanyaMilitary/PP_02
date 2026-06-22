@@ -12,25 +12,16 @@
 1. Убедитесь, что на компьютере установлена IntelliJ IDEA Community Edition 2024.2.2 или другая среда разработки с поддержкой Java
 
 2. Скачайте файлы приложения:
-    Main.java;
-
-    LoginUI.java;
-
-    RegisterUI.java; 
-
-    MainUI.java;
-
-    Database.java;
-
-    ExercisesDialog.java; 
-
-    Exercise.java; 
-
-    Set.java; 
-
-    Record.java; 
-
-    Workout.java.
+- Main.java;
+- LoginUI.java;
+- RegisterUI.java; 
+- MainUI.java;
+- Database.java;
+- ExercisesDialog.java; 
+- Exercise.java; 
+- Set.java; 
+- Record.java; 
+- Workout.java.
 
 4. Скачайте драйвер базы данных:
 
